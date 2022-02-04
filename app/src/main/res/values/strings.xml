@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactManagerExample</string>
+    <string name="drop_table_db">DROP TABLE IF EXISTS</string>
+    <string name="phone_number">phone number</string>
+    <string name="text_goes_here">text goes here</string>
+    <string name="contact_icon">contact icon</string>
+    <string name="primary_key">\" INTEGER PRIMARY KEY,\"</string>
+    <string name="name">name</string>
+    <string name="number">number</string>
+    <string name="save_contact">save contact</string>
+</resources>
